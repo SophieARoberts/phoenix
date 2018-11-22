@@ -1,0 +1,227 @@
+/*phone portrait*/
+@media (min-device-width: 320px) and (max-device-width: 414px) { 
+	.head {
+    	height: 45vh;
+    	background-size: auto 100%;
+	}
+	.nav {
+		height: 10vw;
+	}
+	.nav .logo {
+		background-size: 100% auto;
+	}
+	.nav_social a {
+		font-size: 2em;
+	}
+	.nav_social #instagram {
+		margin-left: 2%;
+	}
+	.about {
+		height: 35vh;
+	}
+	.intro p {
+		width: 62%;
+	}
+	.picker {
+		width: 16%;
+	}
+	.text {
+		width: 46%;
+	}
+	.portfolio {
+		height: 30vh;
+	}
+	.contact {
+		height: 11vh;
+	}
+	.social #instagram {
+		margin-left: 2%;
+	}
+
+}
+/*iphonex portrait*/
+@media (device-height: 812px) and (device-width: 375px) {
+	.head {
+    	height: 40vh;
+    	background-size: 100% auto;
+	}
+	.about {
+		height: 30vh;
+	}
+}
+/*iphonex landscape*/
+@media (device-height: 375px) and (device-width: 812px) {
+	.nav {
+		height: 5vw;
+	}
+	.about {
+		height: 100vh;
+	}
+	.intro p {
+		width: 70%;
+	}
+	.picker {
+		width: 16%;
+	}
+	.text {
+		width: 54%;
+	}
+	.item_text {
+		font-size: 0.8em;
+	}
+	.contact {
+		height: 44vh;
+	}
+	.social #instagram {
+		margin-left: 3%;
+	}
+}
+
+/*phone landscape*/
+@media (min-device-width: 568px) and (max-device-width: 811px) {
+	.head {
+    	height: 100vh;
+    	background-size: 100% auto;
+	}
+	.about {
+		height: 85vh;
+	}
+	.intro p {
+		width: 62%;
+	}
+	.picker {
+		width: 16%;
+	}
+	.text {
+		width: 46%;
+	}
+	.portfolio {
+		height: 25vh;
+	}
+	.portfolio {
+		height: 85vh;
+	}
+	.contact {
+		height: 36vh;
+	}
+	.social #instagram {
+		margin-left: 3%;
+	}
+
+}
+/*ipad portrait*/
+@media (device-width: 768px) and (device-height: 1024px) {
+	.head {
+		height: 60vh;
+	}
+	.nav {
+		height: 10vw;
+	}
+	.nav .logo {
+		background-size: 100% auto;
+	}
+	.nav_social a {
+		font-size: 2em;
+	}
+	.nav_social #instagram {
+		margin-left: 2%;
+	}
+	.about {
+		height: 50vh;
+	}
+	.intro p {
+		width: 62%;
+	}
+	.picker {
+		width: 16%;
+	}
+	.text {
+		width: 46%;
+	}
+	.portfolio {
+		height: 40vh;
+	}
+	.contact {
+		height: 15vh;
+	}
+	.social #instagram {
+		margin-left: 3%;
+	}
+}
+
+/*ipadpro portrait*/
+@media (device-width: 1024px) and (device-height: 1366px) {
+	.head {
+		height: 60vh;
+	}
+	.nav {
+		height: 10vw;
+	}
+	.nav .logo {
+		background-size: 100% auto;
+	}
+	.nav_social a {
+		font-size: 2em;
+	}
+	.nav_social #instagram {
+		margin-left: 2%;
+	}
+	.about {
+		height: 50vh;
+	}
+	.intro p {
+		width: 62%;
+	}
+	.picker {
+		width: 16%;
+	}
+	.text {
+		width: 46%;
+	}
+	.portfolio {
+		height: 40vh;
+	}
+	.contact {
+		height: 15vh;
+	}
+	.social #instagram {
+		margin-left: 3%;
+	}
+}
+
+/*ipad landscape*/
+@media (device-width: 1024px) and (device-height: 768px) {
+	.head {
+		height: 80vh;
+	}
+	.nav {
+		height: 6vw;
+	}
+	.nav_social a {
+		font-size: 1.4em;
+	}
+	#facebook, #instagram {
+		height: 40%;
+	}
+	#instagram {
+		margin-left: 2%;
+	}
+	.about {
+		height: 65vh;
+	}
+	.intro p {
+		width: 62%;
+	}
+	.picker {
+		width: 16%;
+	}
+	.text {
+		width: 46%;
+	}
+	.portfolio {
+		height: 60vh;
+	}
+	.social #instagram {
+		margin-left: 3%;
+	}
+}
