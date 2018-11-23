@@ -54,16 +54,16 @@
 </div>
 <div class="portfolio">
 	<div class="item" id='item1'>
-		<div class="item_image"></div>
-		<div class="item_text"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p></div>
+		<div class="item_image"><div class="item_title"><h1>Witch Tea?</h1></div></div>
+		<div class="item_text"><p>Website, design work and social media for Witch Tea? a new Boba Tea Bar in Lancaster. A Wordpress installation for displaying information and providing an ordering service.</p></div>
 	</div>
 	<div class="item" id='item2'>
-		<div class="item_image"></div>
-		<div class="item_text"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p></div>
+		<div class="item_image"><div class="item_title"><h1>You could be featured here!</h1></div></div>
+		<div class="item_text"><p>It's like a bit of advertising space. We are currently taking on new projects. Send us an email at <a href="mailto:hello@phoenixwebdesign.co.uk">hello@phoenixwebdesign.co.uk</a> and we will be sure to help you out.</p></div>
 	</div>
 	<div class="item" id='item3'>
-		<div class="item_image"></div>
-		<div class="item_text"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p></div>
+		<div class="item_image"><div class="item_title"><h1>MiKard</h1></div></div>
+		<div class="item_text"><p>A new service coming soon. Preliminary website design and consultation for system development.</p></div>
 	</div>
 
 

@@ -141,8 +141,15 @@ body {
 .item {
 	margin: 0 1%;
 	background-color: white;
-	box-shadow: 6px 10px 35px 0px rgba(0,0,0,0.31);
+	box-shadow: 6px 10px 35px 0px rgba(0,0,0,0.3);
+	flex-basis: 0;
+	flex-grow: 1; 
+}
 
+.item a {
+	text-decoration: none;
+	color: rgb(62,11,21);
+	font-weight: 700;
 }
 
 .item_image {
@@ -150,19 +157,34 @@ body {
 	width: 90%;
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: auto 100%;
+	background-size: 100% auto;
 	margin-top: 5%;
 	margin-left: 5%;
 }
 
+.item_title {
+	background-color: rgba(255, 255, 255, 0.5);
+	height: 100%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: rgb(62,11,21);
+	font-family: "Rubik", sans-serif;
+	font-weight: 700;
+	text-shadow: 2px 1px 3px rgba(0,0,0,0.3);
+	text-align: center;
+
+}
+
 #item1 .item_image {
-	background-image: url('../images/slider1.jpg');
+	background-image: url('../images/witch_tea.png');
 }
 #item2 .item_image {
-	background-image: url('../images/slider2.jpg');
+	background-image: url('../images/blank.png');
 }
 #item3 .item_image {
-	background-image: url('../images/slider3.jpg');
+	background-image: url('../images/mikard.png');
 }
 
 
