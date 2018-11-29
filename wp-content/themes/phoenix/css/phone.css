@@ -37,7 +37,18 @@
 		width: 60%;
 	}
 	.portfolio {
-		height: 30vh;
+		height: auto;
+		display: block;
+	}
+	.item {
+		margin: 0 10%;
+		height: 60%;
+	}
+	.item_text {
+		font-size: 1.4em;
+	}
+	.item_title {
+		font-size: 1.2em;
 	}
 	.contact {
 		height: 13vh;
@@ -285,7 +296,19 @@ and (-webkit-min-device-pixel-ratio: 1)  {
 	}
 	.portfolio {
 		height: 80vh;
+		display: flex;
 	}
+	.item {
+		margin: 0 1%;
+		height: auto;
+	}
+	.item_text {
+		font-size: 1em;
+	}
+	.item_title {
+		font-size: 1em;
+	}
+
 	.contact {
 		height: 40vh;
 	}
@@ -310,7 +333,7 @@ and (-webkit-min-device-pixel-ratio: 1)  {
 		width: 60%;
 	}
 	.portfolio {
-		height: 30vh;
+		height: auto;
 	}
 	.contact {
 		height: 13vh;
