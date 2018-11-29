@@ -242,3 +242,10 @@ body {
 	width: 10%;
 }
 
+.social #facebook {
+	background-image: url("../images/facebook_white.png");
+}
+
+.social #instagram {
+	background-image: url("../images/instagram_white.svg");	
+}

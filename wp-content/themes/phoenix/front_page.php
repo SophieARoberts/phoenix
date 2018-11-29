@@ -6,7 +6,7 @@
 <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/header.css">
 <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/phoenix.css">
 <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/phone.css">
-
+<link rel="icon" href="<?php echo get_template_directory_uri(); ?>/images/logo.png">
 
 <link href="https://fonts.googleapis.com/css?family=KoHo:400,700|Rubik:400,700" rel="stylesheet">
 
@@ -78,7 +78,7 @@
 		<a class='mail' href="mailto:hello@phoenixwebdesign.co.uk">hello@phoenixwebdesign.co.uk</a>
 		<div class="social">
 			<a id="facebook" href="https://www.facebook.com/phoenixwebdesignlancaster"></a>
-			<a id="instagram" href="https://www.instagram.com/pheonixwebdesign/"></a>
+			<a id="instagram" href="https://www.instagram.com/phoenixwebdesignlancaster/"></a>
 		</div>
 	</div>
 
