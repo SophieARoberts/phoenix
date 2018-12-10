@@ -3,20 +3,37 @@
 	* Template Name: Phoenix
 	*/ 
 ?>
-<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/header.css">
-<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/phoenix.css">
-<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/phone.css">
-<link rel="icon" href="<?php echo get_template_directory_uri(); ?>/images/logo.png">
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-130432107-1"></script>
+	<script>
+  		window.dataLayer = window.dataLayer || [];
+  		function gtag(){dataLayer.push(arguments);}
+  		gtag('js', new Date());
+  		gtag('config', 'UA-130432107-1');
+	</script>
 
-<link href="https://fonts.googleapis.com/css?family=KoHo:400,700|Rubik:400,700" rel="stylesheet">
+	<meta name="google-site-verification" content="uci0wEeA21r5EaJVLlC4SR4G21UtkGAan6XVP30CcMk"/>
+	<meta name="description" content="We work with all different kinds of people. Whether you're a new business wanting the whole works. Or a small organisation looking for a simple website. We will work with you to provide a service suited to your needs.">
+	<meta name="keywords" content="wesite, website build, website develop, website design, web, web build, web develop, web design, social media, branding, design, lancaster, lancashire, cumbria, north west, wordpress">
+	<meta name="robots" content="index,follow">
+	<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/header.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/phoenix.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/phone.css">
+	<link rel="icon" href="<?php echo get_template_directory_uri(); ?>/images/logo.png">
 
-<title>Phoenix Web Design</title>
+	<link href="https://fonts.googleapis.com/css?family=KoHo:400,700|Rubik:400,700" rel="stylesheet">
+
+	<title>Phoenix Web Design</title>
+
+</head>
+
 <div class="nav">
 	<div class="logo"></div>
 	<div class="nav_social">
 		<a href="mailto:hello@phoenixwebdesign.co.uk">hello@phoenixwebdesign.co.uk</a>
 		<a id="facebook" href="https://www.facebook.com/phoenixwebdesignlancaster"></a>
-		<a id="instagram" href="https://www.instagram.com/pheonixwebdesign/"></a>
+		<a id="instagram" href="https://www.instagram.com/phoenixwebdesignlancaster/"></a>
 	</div>
 
 </div>
